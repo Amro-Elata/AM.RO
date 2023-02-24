@@ -1,0 +1,5 @@
+Background colour: #212121 
+Text Color: #ffffff
+Heading/MainText colour: #569AFC
+Button Outline: #9DB6DC
+Navbar: #171717
