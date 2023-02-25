@@ -239,3 +239,20 @@ button:hover{
         width: 155%;
     } 
  }
+
+.background_video{
+    width: 50%;
+    height: 50%;
+    margin-left: 1100px;
+    margin-bottom: 650px;
+}
+
+.mainbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10%;
+    overflow: hidden;
+    z-index: 10;
+    width: 100px;
+}
