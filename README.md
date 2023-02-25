@@ -1,2 +1,2 @@
-# am.ro
+# AM.RO
 Portfolio wiki
