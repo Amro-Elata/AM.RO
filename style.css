@@ -240,19 +240,41 @@ button:hover{
     } 
  }
 
+.video_container{
+    width: 400px;
+    height: 100px;
+    z-index: 20;
+    position: fixed;
+
+}
+
 .background_video{
-    width: 50%;
-    height: 50%;
-    margin-left: 1100px;
-    margin-bottom: 650px;
+    width: 400px;
+    height: 100px;
+    margin-top: 750px;
+    margin-left: 720px;
+    position: fixed;
 }
 
 .mainbody{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 0 10%;
-    overflow: hidden;
-    z-index: 10;
-    width: 100px;
+    z-index: 1;
+    position: flex;
+    height: 955px;
+    background-color: #212121;
+    overflow: scroll;
+}
+
+.aboutmetextbody{
+
+    margin-top: 50px;
+    align-content: center;
+    margin-right: 500px;
+}
+
+h3{
+    size: 100px;
+    color: #ffffff;
+    padding: 0;
+    margin-top: 50px;
+    line-height: 25px;
 }
